@@ -1,0 +1,7 @@
+interface:
+  display_name: "Domain Buyer"
+  short_description: "Find, compare, score, and safely buy domains"
+  default_prompt: "Use $domain-buyer to shortlist domain names, compare registrar pricing, assess brand fit, and prepare a guarded purchase plan."
+
+policy:
+  allow_implicit_invocation: true
