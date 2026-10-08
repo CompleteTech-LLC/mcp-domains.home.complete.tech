@@ -27,3 +27,16 @@ pnpm-debug.log*
 Thumbs.db
 .vscode/
 .idea/
+
+# Private naming research and local audit/backups
+/research/
+/.audit/
+*.bundle
+*.patch
+
+# Local authentication and key material
+.npmrc
+*.pem
+*.key
+*.p12
+*.pfx
